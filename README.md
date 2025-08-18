@@ -2,9 +2,6 @@
 
 This project is a multifunctional desktop application developed to listen for, parse, visualize, and record incoming serial port data, as well as connect to and manage it from a remote device via SSH/SFTP. It was built using the PyQt5 library.
 
-![Application Screenshot](https://via.placeholder.com/800x450.png?text=Screenshot+Here+Comes)
-*(Tip: Take a nice screenshot of your application and attach it here)*
-
 ## 🚀 Key Features
 
 * **Serial Port Management:**
