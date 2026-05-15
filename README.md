@@ -1,6 +1,6 @@
 # PyQt5 Advanced Serial Port & SSH Interface
 
-This project is a multifunctional desktop application developed to listen for, parse, visualize, and record incoming serial port data, as well as connect to and manage it from a remote device via SSH/SFTP. It was built using the PyQt5 library.
+This project is NETA Electronics A.Sh. August June–August 2025) was developed during the internship period in the company. The project is a multifunctional desktop application developed to listen to, parse, visualize, and log serial port data, as well as establish and manage connections from a remote device via SSH/SFTP. It was built using the PyQt5 library.
 
 ## 🚀 Key Features
 
